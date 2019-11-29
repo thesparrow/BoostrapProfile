@@ -1,6 +1,6 @@
-# BoostrapProfile
+# BoostrapProfile 
+
 utilizing boostrap 4 to create a basic "splash" page 
-# Stage Two of Restaurant Reviews (Doug Brown)
 ---
 ## Overview
 
